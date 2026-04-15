@@ -1,0 +1,5 @@
+condition,em
+zero_shot,63.2
+one_shot,71.1
+two_shot,74.0
+three_shot,75.2
