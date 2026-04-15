@@ -1,0 +1,11 @@
+pred,gold,em,f1,tokens
+"the pacific ocean","pacific ocean",0,0.67,352
+"1998","1998",1,1.0,345
+"james madison","james madison",1,1.0,349
+"the city of paris","paris",0,0.67,351
+"oxygen","oxygen",1,1.0,346
+"the nile river","nile river",0,0.67,347
+"france","france",1,1.0,350
+"the treaty of versailles","treaty of versailles",0,0.80,353
+"harvard university","harvard university",1,1.0,344
+"the united states","united states",0,0.80,349
