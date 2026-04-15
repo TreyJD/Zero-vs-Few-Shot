@@ -1,0 +1,5 @@
+condition,tokens
+zero_shot,348
+one_shot,552
+two_shot,756
+three_shot,960
