@@ -1,0 +1,5 @@
+condition,em,f1,avg_tokens
+zero_shot,63.2,73.0,348
+one_shot,71.1,79.4,552
+two_shot,74.0,82.1,756
+three_shot,75.2,83.0,960
