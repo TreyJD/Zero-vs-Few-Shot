@@ -1,0 +1,5 @@
+condition,f1
+zero_shot,73.0
+one_shot,79.4
+two_shot,82.1
+three_shot,83.0
